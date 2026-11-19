@@ -1,0 +1,2191 @@
+{
+  "project": "Shaam Restaurant",
+  "generatedAt": "2026-11-19T17:15:53.356885+00:00",
+  "generationOutput": "The built-in generator currently outputs 1254x1254 PNG. 3840x3840 files are Lanczos upscales, not native 4K captures.",
+  "requestedDishCount": 84,
+  "completedAiImages": 84,
+  "items": [
+    {
+      "id": "veg-manchuria",
+      "dish": "Veg Manchuria",
+      "category": "Veg Starters",
+      "filename": "veg-manchuria-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/veg-manchuria-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/veg-manchuria-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "paneer-65",
+      "dish": "Paneer 65",
+      "category": "Veg Starters",
+      "filename": "paneer-65-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/paneer-65-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/paneer-65-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "paneer-manchurian",
+      "dish": "Paneer Manchuria",
+      "category": "Veg Starters",
+      "filename": "paneer-manchurian-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/paneer-manchurian-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/paneer-manchurian-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "chilli-paneer",
+      "dish": "Chilli Paneer",
+      "category": "Veg Starters",
+      "filename": "chilli-paneer-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/chilli-paneer-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/chilli-paneer-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "veg-spring-roll",
+      "dish": "Veg Spring Roll",
+      "category": "Veg Starters",
+      "filename": "veg-spring-roll-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/veg-spring-roll-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/veg-spring-roll-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "ginger-veg-manchuria",
+      "dish": "Ginger Veg Manchuria",
+      "category": "Veg Starters",
+      "filename": "ginger-veg-manchuria-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/ginger-veg-manchuria-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/ginger-veg-manchuria-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "chicken-hot-soup",
+      "dish": "Chicken Hot & Soup",
+      "category": "Soups",
+      "filename": "chicken-hot-soup-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/chicken-hot-soup-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/chicken-hot-soup-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "chicken-manchuria-soup",
+      "dish": "Chicken Manchuria Soup",
+      "category": "Soups",
+      "filename": "chicken-manchuria-soup-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/chicken-manchuria-soup-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/chicken-manchuria-soup-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "chicken-noodles-soup",
+      "dish": "Chicken Noodles Soup",
+      "category": "Soups",
+      "filename": "chicken-noodles-soup-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/chicken-noodles-soup-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/chicken-noodles-soup-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "veg-hot-soup",
+      "dish": "Veg Hot & Soup",
+      "category": "Soups",
+      "filename": "veg-hot-soup-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/veg-hot-soup-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/veg-hot-soup-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "veg-fried-rice",
+      "dish": "Veg Fried Rice",
+      "category": "Fried Rice",
+      "filename": "veg-fried-rice-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/veg-fried-rice-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/veg-fried-rice-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "schezwan-fried-rice",
+      "dish": "Schezwan Fried Rice",
+      "category": "Fried Rice",
+      "filename": "schezwan-fried-rice-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/schezwan-fried-rice-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/schezwan-fried-rice-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "paneer-fried-rice",
+      "dish": "Paneer Fried Rice",
+      "category": "Fried Rice",
+      "filename": "paneer-fried-rice-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/paneer-fried-rice-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/paneer-fried-rice-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "mushroom-fried-rice",
+      "dish": "Mushroom Fried Rice",
+      "category": "Fried Rice",
+      "filename": "mushroom-fried-rice-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/mushroom-fried-rice-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/mushroom-fried-rice-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "jeera-rice",
+      "dish": "Jeera Rice",
+      "category": "Fried Rice",
+      "filename": "jeera-rice-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/jeera-rice-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/jeera-rice-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "curd-rice",
+      "dish": "Curd Rice",
+      "category": "Fried Rice",
+      "filename": "curd-rice-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/curd-rice-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/curd-rice-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "veg-pulav",
+      "dish": "Veg Pulav",
+      "category": "Fried Rice",
+      "filename": "veg-pulav-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/veg-pulav-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/veg-pulav-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "chicken-fried-rice",
+      "dish": "Chicken Fried Rice",
+      "category": "Fried Rice",
+      "filename": "chicken-fried-rice-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/chicken-fried-rice-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/chicken-fried-rice-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "double-egg-fried-rice",
+      "dish": "Double Egg Fried Rice",
+      "category": "Fried Rice",
+      "filename": "double-egg-fried-rice-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/double-egg-fried-rice-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/double-egg-fried-rice-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "mix-fried-rice",
+      "dish": "Mix Fried Rice",
+      "category": "Fried Rice",
+      "filename": "mix-fried-rice-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/mix-fried-rice-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/mix-fried-rice-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "egg-65",
+      "dish": "Egg 65",
+      "category": "Non-Veg Starters",
+      "filename": "egg-65-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/egg-65-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/egg-65-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "egg-manchuria",
+      "dish": "Egg Manchuria",
+      "category": "Non-Veg Starters",
+      "filename": "egg-manchuria-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/egg-manchuria-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/egg-manchuria-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "egg-fry",
+      "dish": "Egg Fry",
+      "category": "Non-Veg Starters",
+      "filename": "egg-fry-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/egg-fry-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/egg-fry-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "egg-bujji",
+      "dish": "Egg Bujji",
+      "category": "Non-Veg Starters",
+      "filename": "egg-bujji-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/egg-bujji-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/egg-bujji-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "apollo-fish",
+      "dish": "Apollo Fish",
+      "category": "Non-Veg Starters",
+      "filename": "apollo-fish-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/apollo-fish-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/apollo-fish-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "chicken-fry",
+      "dish": "Chicken Fry",
+      "category": "Non-Veg Starters",
+      "filename": "chicken-fry-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/chicken-fry-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/chicken-fry-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "loose-prawns",
+      "dish": "Loose Prawns",
+      "category": "Non-Veg Starters",
+      "filename": "loose-prawns-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/loose-prawns-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/loose-prawns-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "chilli-prawns",
+      "dish": "Chilli Prawns",
+      "category": "Non-Veg Starters",
+      "filename": "chilli-prawns-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/chilli-prawns-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/chilli-prawns-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "chicken-65",
+      "dish": "Chicken 65",
+      "category": "Non-Veg Starters",
+      "filename": "chicken-65-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/chicken-65-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/chicken-65-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "chicken-manchuria",
+      "dish": "Chicken Manchuria",
+      "category": "Non-Veg Starters",
+      "filename": "chicken-manchuria-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/chicken-manchuria-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/chicken-manchuria-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "chicken-lollipop",
+      "dish": "Chicken Lollipop",
+      "category": "Non-Veg Starters",
+      "filename": "chicken-lollipop-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/chicken-lollipop-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/chicken-lollipop-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "chicken-chilli",
+      "dish": "Chicken Chilli",
+      "category": "Non-Veg Starters",
+      "filename": "chicken-chilli-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/chicken-chilli-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/chicken-chilli-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "ginger-chicken",
+      "dish": "Ginger Chicken",
+      "category": "Non-Veg Starters",
+      "filename": "ginger-chicken-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/ginger-chicken-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/ginger-chicken-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "chicken-majestic",
+      "dish": "Chicken Majestic",
+      "category": "Non-Veg Starters",
+      "filename": "chicken-majestic-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/chicken-majestic-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/chicken-majestic-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "chicken-555",
+      "dish": "Chicken 555",
+      "category": "Non-Veg Starters",
+      "filename": "chicken-555-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/chicken-555-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/chicken-555-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "schezwan-chicken",
+      "dish": "Schezwan Chicken",
+      "category": "Non-Veg Starters",
+      "filename": "schezwan-chicken-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/schezwan-chicken-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/schezwan-chicken-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "kaju-chicken",
+      "dish": "Kaju Chicken",
+      "category": "Non-Veg Starters",
+      "filename": "kaju-chicken-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/kaju-chicken-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/kaju-chicken-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "mutton-fry",
+      "dish": "Mutton Fry",
+      "category": "Non-Veg Starters",
+      "filename": "mutton-fry-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/mutton-fry-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/mutton-fry-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "mutton-65",
+      "dish": "Mutton 65",
+      "category": "Non-Veg Starters",
+      "filename": "mutton-65-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/mutton-65-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/mutton-65-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "veg-soft-noodles",
+      "dish": "Veg Soft Noodles",
+      "category": "Chinese",
+      "filename": "veg-soft-noodles-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/veg-soft-noodles-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/veg-soft-noodles-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "veg-schezwan-noodles",
+      "dish": "Veg Schezwan Noodles",
+      "category": "Chinese",
+      "filename": "veg-schezwan-noodles-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/veg-schezwan-noodles-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/veg-schezwan-noodles-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "egg-soft-noodles",
+      "dish": "Egg Soft Noodles",
+      "category": "Chinese",
+      "filename": "egg-soft-noodles-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/egg-soft-noodles-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/egg-soft-noodles-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "double-egg-noodles",
+      "dish": "Double Egg Soft Noodles",
+      "category": "Chinese",
+      "filename": "double-egg-noodles-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/double-egg-noodles-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/double-egg-noodles-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "chicken-soft-noodles",
+      "dish": "Chicken Soft Noodles",
+      "category": "Chinese",
+      "filename": "chicken-soft-noodles-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/chicken-soft-noodles-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/chicken-soft-noodles-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "schezwan-chicken-noodles",
+      "dish": "Schezwan Chicken Soft Noodles",
+      "category": "Chinese",
+      "filename": "schezwan-chicken-noodles-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/schezwan-chicken-noodles-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/schezwan-chicken-noodles-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "double-chicken-noodles",
+      "dish": "Double Chicken Noodles",
+      "category": "Chinese",
+      "filename": "double-chicken-noodles-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/double-chicken-noodles-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/double-chicken-noodles-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "chicken-curry",
+      "dish": "Chicken Curry",
+      "category": "Chicken Curries",
+      "filename": "chicken-curry-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/chicken-curry-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/chicken-curry-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "chicken-masala",
+      "dish": "Chicken Masala",
+      "category": "Chicken Curries",
+      "filename": "chicken-masala-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/chicken-masala-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/chicken-masala-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "garlic-chicken",
+      "dish": "Garlic Chicken",
+      "category": "Chicken Curries",
+      "filename": "garlic-chicken-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/garlic-chicken-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/garlic-chicken-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "butter-chicken",
+      "dish": "Butter Chicken",
+      "category": "Chicken Curries",
+      "filename": "butter-chicken-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/butter-chicken-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/butter-chicken-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "afghani-chicken",
+      "dish": "Afghani Chicken",
+      "category": "Chicken Curries",
+      "filename": "afghani-chicken-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/afghani-chicken-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/afghani-chicken-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "telangana-chicken",
+      "dish": "Telangana Chicken",
+      "category": "Chicken Curries",
+      "filename": "telangana-chicken-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/telangana-chicken-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/telangana-chicken-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "andhra-chicken",
+      "dish": "Andhra Chicken",
+      "category": "Chicken Curries",
+      "filename": "andhra-chicken-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/andhra-chicken-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/andhra-chicken-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "kadai-chicken",
+      "dish": "Kadai Chicken",
+      "category": "Chicken Curries",
+      "filename": "kadai-chicken-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/kadai-chicken-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/kadai-chicken-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "mathi-chicken",
+      "dish": "Mathi Chicken",
+      "category": "Chicken Curries",
+      "filename": "mathi-chicken-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/mathi-chicken-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/mathi-chicken-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "punjabi-chicken",
+      "dish": "Punjabi Chicken",
+      "category": "Chicken Curries",
+      "filename": "punjabi-chicken-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/punjabi-chicken-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/punjabi-chicken-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "chicken-moghalai",
+      "dish": "Chicken Moghalai",
+      "category": "Chicken Curries",
+      "filename": "chicken-moghalai-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/chicken-moghalai-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/chicken-moghalai-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "kali-mirchi-chicken",
+      "dish": "Kali Mirchi Chicken",
+      "category": "Chicken Curries",
+      "filename": "kali-mirchi-chicken-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/kali-mirchi-chicken-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/kali-mirchi-chicken-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "achari-murgh-chicken",
+      "dish": "Achari Murgh Chicken",
+      "category": "Chicken Curries",
+      "filename": "achari-murgh-chicken-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/achari-murgh-chicken-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/achari-murgh-chicken-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "mutton-curry",
+      "dish": "Mutton Curry",
+      "category": "Mutton Curries",
+      "filename": "mutton-curry-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/mutton-curry-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/mutton-curry-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "mutton-masala",
+      "dish": "Mutton Masala",
+      "category": "Mutton Curries",
+      "filename": "mutton-masala-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/mutton-masala-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/mutton-masala-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "mutton-rogan-curry",
+      "dish": "Mutton Rogan Curry",
+      "category": "Mutton Curries",
+      "filename": "mutton-rogan-curry-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/mutton-rogan-curry-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/mutton-rogan-curry-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "kadai-mutton",
+      "dish": "Kadai Mutton",
+      "category": "Mutton Curries",
+      "filename": "kadai-mutton-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/kadai-mutton-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/kadai-mutton-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "mutton-moghalai",
+      "dish": "Mutton Moghalai",
+      "category": "Mutton Curries",
+      "filename": "mutton-moghalai-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/mutton-moghalai-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/mutton-moghalai-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "fish-curry",
+      "dish": "Fish Curry",
+      "category": "Fish Curries",
+      "filename": "fish-curry-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/fish-curry-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/fish-curry-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "fish-masala",
+      "dish": "Fish Masala",
+      "category": "Fish Curries",
+      "filename": "fish-masala-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/fish-masala-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/fish-masala-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "kadai-fish",
+      "dish": "Kadai Fish",
+      "category": "Fish Curries",
+      "filename": "kadai-fish-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/kadai-fish-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/kadai-fish-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "prawns-curry",
+      "dish": "Prawns Curry",
+      "category": "Fish Curries",
+      "filename": "prawns-curry-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/prawns-curry-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/prawns-curry-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "prawns-masala",
+      "dish": "Prawns Masala",
+      "category": "Fish Curries",
+      "filename": "prawns-masala-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/prawns-masala-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/prawns-masala-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "kadai-prawns",
+      "dish": "Kadai Prawns",
+      "category": "Fish Curries",
+      "filename": "kadai-prawns-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/kadai-prawns-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/kadai-prawns-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "chicken-biryani",
+      "dish": "Chicken Biryani",
+      "category": "Biryani",
+      "filename": "chicken-biryani-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/chicken-biryani-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/chicken-biryani-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "mutton-biryani",
+      "dish": "Mutton Biryani",
+      "category": "Biryani",
+      "filename": "mutton-biryani-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/mutton-biryani-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/mutton-biryani-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "veg-biryani",
+      "dish": "Veg Biryani",
+      "category": "Biryani",
+      "filename": "veg-biryani-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/veg-biryani-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/veg-biryani-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "special-chicken-biryani",
+      "dish": "Special Chicken Biryani",
+      "category": "Biryani",
+      "filename": "special-chicken-biryani-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/special-chicken-biryani-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/special-chicken-biryani-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "egg-biryani",
+      "dish": "Egg Biryani",
+      "category": "Biryani",
+      "filename": "egg-biryani-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/egg-biryani-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/egg-biryani-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "chicken-mandi",
+      "dish": "Chicken Mandi",
+      "category": "Mandi",
+      "filename": "chicken-mandi-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/chicken-mandi-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/chicken-mandi-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "mutton-mandi",
+      "dish": "Mutton Mandi",
+      "category": "Mandi",
+      "filename": "mutton-mandi-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/mutton-mandi-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/mutton-mandi-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "special-chicken-mandi",
+      "dish": "Special Chicken Mandi",
+      "category": "Mandi",
+      "filename": "special-chicken-mandi-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/special-chicken-mandi-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/special-chicken-mandi-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "family-mandi",
+      "dish": "Family Mandi",
+      "category": "Mandi",
+      "filename": "family-mandi-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/family-mandi-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/family-mandi-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "grilled-chicken-mandi",
+      "dish": "Grilled Chicken Mandi",
+      "category": "Mandi",
+      "filename": "grilled-chicken-mandi-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/grilled-chicken-mandi-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/grilled-chicken-mandi-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "tandoori-chicken",
+      "dish": "Tandoori Chicken",
+      "category": "Tandoori",
+      "filename": "tandoori-chicken-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/tandoori-chicken-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/tandoori-chicken-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "grilled-chicken",
+      "dish": "Grilled Chicken",
+      "category": "Tandoori",
+      "filename": "grilled-chicken-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/grilled-chicken-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/grilled-chicken-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "chicken-tikka",
+      "dish": "Chicken Tikka",
+      "category": "Tandoori",
+      "filename": "chicken-tikka-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/chicken-tikka-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": "/images/menu/chicken-tikka-ai.webp",
+      "currentMenuImageDimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "id": "prawns-biryani",
+      "dish": "Prawns Biryani",
+      "category": "Biryani",
+      "filename": "prawns-biryani-ai.webp",
+      "generationStatus": "completed",
+      "nativeSourceDimensions": [
+        1254,
+        1254
+      ],
+      "upscaledMaster": "public/images/menu/originals-4k/prawns-biryani-3840-upscaled.png",
+      "upscaledMasterDimensions": [
+        3840,
+        3840
+      ],
+      "optimizedWebpDimensions": [
+        1024,
+        1024
+      ],
+      "optimizationStatus": "1024px WebP created",
+      "currentMenuImage": null,
+      "currentMenuImageDimensions": null,
+      "menuIntegrationStatus": "not-in-current-menu; price and availability unverified"
+    }
+  ]
+}
